@@ -24,6 +24,7 @@ The data shows that the largest age group of participants is between 18–39 yea
 
 ### Finishing Times
 This chart illustrates the distribution of finishing times across different age groups. A clear pattern emerges: as age increases, median finishing times become slower. It’s worth noting that the Boston Marathon requires qualifying times, which likely contributes to generally faster average times compared to open-entry races.
+
 <img src="finishing_times.png" width="520">
 
 ### Half Split Difference
