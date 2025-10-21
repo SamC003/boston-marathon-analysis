@@ -19,6 +19,7 @@ it would be fascinating to analyze data from previous decades, dating back to 19
 
 ### Age Group Distribution
 The data shows that the largest age group of participants is between 18–39 years old, accounting for more than twice as many runners as any other age group. There’s a clear trend that as age increases, the number of participants steadily declines a reflection of how endurance events like marathons tend to attract younger to mid-aged runners.
+
 <img src="age_distribution.png" width="520">
 
 ### Finishing Times
