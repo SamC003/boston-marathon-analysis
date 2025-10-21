@@ -16,22 +16,22 @@ and age, and use visualizations to identify patterns.
 Looking at gender you can see slightly more men ran this race.
 This would be interesting to get data from past years going all the way back to 1967 to see the progrression of womem runners 
 over the past 60 years
-![Gender Counts](gender_distribution.png)
+<img src="charts/gender_distribution.png" width="520">
 
 ### Age Group Distribution
 This graph shows the largest age group is 18-39 years old which is over double the amount of all the other age groups. 
 There is a clear trend that the older the age group gets the lower the number of participants. 
-![Age Distribution](age_distribution.png)
+<img src="charts/age_distribution.png" width="520">
 
 ### Finishing Times
 This graph shows the distribution of finishing times of the different age groups. A trend is that the older groups run slower, 
 the median slowly goes up. It also should be known the Boston Marathon has qualifying times which I believe keeps the average
 completion time down. 
-![Finishing Times](finishing_times.png)
+<img src="charts/finishing_times.png" width="520">
 
 ### Half Split Difference
 This graph was the most interesting to me. This shows the difference in times between the second half of the marathon and the first half. 
 It is worth noting how many people had a slower second half compared to the first. There also appears to be trend showing that most people did not
 differ much as most of the people were only slower by around 15-20 minutes.
-![Half Splits](half_split_differences.png)
+<img src="charts/half_split_differences.png" width="520">
 
