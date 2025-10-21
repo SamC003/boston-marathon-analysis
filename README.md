@@ -31,5 +31,6 @@ This chart illustrates the distribution of finishing times across different age 
 This graph was the most interesting to me. This shows the difference in times between the second half of the marathon and the first half. 
 It is worth noting how many people had a slower second half compared to the first. There also appears to be trend showing that most people did not
 differ much as most of the people were only slower by around 15-20 minutes.
+
 <img src="half_split_differences.png" width="520">
 
