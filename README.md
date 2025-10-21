@@ -13,14 +13,13 @@ and age, and use visualizations to identify patterns.
 
 ## Key Findings
 ### Gender Differences
-Looking at gender you can see slightly more men ran this race.
-This would be interesting to get data from past years going all the way back to 1967 to see the progrression of womem runners 
-over the past 60 years
+Looking at gender distribution, slightly more men participated in this race than women. This difference isn’t dramatic, but it highlights an interesting opportunity for historical comparison 
+it would be fascinating to analyze data from previous decades, dating back to 1967, to observe how women’s participation in marathons has grown over time.
 <img src="gender_distribution.png" width="520">
 
 ### Age Group Distribution
-This graph shows the largest age group is 18-39 years old which is over double the amount of all the other age groups. 
-There is a clear trend that the older the age group gets the lower the number of participants. 
+The data shows that the largest age group of participants is between 18–39 years old, accounting for more than twice as many runners as any other age group.
+There’s a clear trend that as age increases, the number of participants steadily declines a reflection of how endurance events like marathons tend to attract younger to mid-aged runners.
 <img src="age_distribution.png" width="520">
 
 ### Finishing Times
